@@ -1,0 +1,23 @@
+tr{
+    
+    background-color: rgb(177, 253, 253);
+}
+main{
+    height: 70vh;
+    overflow: auto;
+}
+table{
+    border: 1px solid black;
+   
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
+
+header{
+    font-size: 30pt;
+}
